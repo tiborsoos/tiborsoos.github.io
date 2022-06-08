@@ -1,6 +1,18 @@
-h1{
+h1#focim{
     color: red;
+    font-size: 50px;
+
 }
 html{
     background-color: antiquewhite;
+    font-family: 'Amatic SC', cursive;
+    
+}
+img{
+    width: 800px;
+}
+#buri2{
+    
+    
+    
 }
