@@ -4,15 +4,19 @@ h1#focim{
 
 }
 html{
-    background-color: antiquewhite;
-    font-family: 'Amatic SC', cursive;
-    
+    color: antiquewhite;
 }
+    
+
 img{
-    width: 800px;
+    width: 600px;
+    position: relative;
+    left: 100px;
+    padding: 30px;
 }
-#buri2{
-    
-    
-    
+
+p{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
 }
